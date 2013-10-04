@@ -1,0 +1,10 @@
+---
+layout: post
+title: "“第一篇”"
+date: 2013-10-04 18:57
+comments: true
+categories: 
+---
+折腾了一天了～～不知道能不能弄好～～
+测试一下。。
+嘻嘻
